@@ -33,7 +33,7 @@ CFLAGS_OPT := \
   -fstrict-aliasing
 
 CFLAGS_WARN := \
-  -Weverything \
+#  -Weverything \
   -Werror \
   -Wno-unknown-warning-option \
   -Wno-reserved-id-macro \
